@@ -1,7 +1,5 @@
 # Computer Repair Shop Management System
 
-This is a starter version of the SDEV 220 final project.
-
 ## Current Features
 
 - Add customers
