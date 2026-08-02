@@ -1,7 +1,5 @@
 # Computer Repair Shop Management System
 
-A complete SDEV 220 final project for a small computer repair business.
-
 ## Features
 - Add, update, search, and delete customers
 - Create, update, search, and delete completed repair tickets
